@@ -17,8 +17,10 @@ def add_item(flist, dlist, directory):
 	for file in os.listdir(directory):
 		files_in_directory.append[str(file)]
 		print(i, ". ", str(file))
+		i = i + 1;
 	# Promp user for file:
-	
+	flist.append(input("File for input: ")
+	files = input("Enter numbers of files separated by spaces that are dependant on above file")
 
 def main()
 	directory = input("Enter directory name: ")
