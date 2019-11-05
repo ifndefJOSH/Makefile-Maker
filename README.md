@@ -1,0 +1,3 @@
+# Makefile-Maker
+A simple .py script to generate makefiles for C++ projects that compile in g++. Still a work in progress...
+I am writing this so as to cut down on the work I have to do for my C++ course. Enjoy, and maybe help out?
